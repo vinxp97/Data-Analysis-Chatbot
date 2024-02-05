@@ -1,0 +1,7 @@
+OPENAI_API_KEY="X"
+OPENAI_API_TYPE="azure"
+OPENAI_API_BASE="https://XXXX.openai.azure.com/"
+OPENAI_API_VERSION="2023_07-01-preview"
+DEPLOYMENT_NAME="gpt-4-base-dep"
+MODEL_NAME="gpt-4-32k"
+MAX_TOKENS="32768"
